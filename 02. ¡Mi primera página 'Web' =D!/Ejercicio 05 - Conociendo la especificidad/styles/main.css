@@ -47,7 +47,7 @@
   .news__item:nth-child(2n) {
     background: #eee;
   }
-  ul.news li.news__item:last-child {
+  .news__item:last-child {
     border-bottom: 1px solid #ccc;
   }
   .news__item-title {

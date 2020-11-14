@@ -1,0 +1,22 @@
+.container {
+    border: 2px dotted green;
+    background-color: lavender;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.news {
+    width: 50%;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    background-color: greenyellow;
+    border: 2px dashed blue;
+}
+
+.three {
+    order: -1;
+    width: 100%;
+}

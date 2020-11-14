@@ -1,0 +1,13 @@
+.container {
+    border: 2px dotted green;
+    background-color: khaki;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image {
+    width: 200px;
+    height: 100px;
+    background-color: greenyellow;
+    border: 2px dashed blue;
+}

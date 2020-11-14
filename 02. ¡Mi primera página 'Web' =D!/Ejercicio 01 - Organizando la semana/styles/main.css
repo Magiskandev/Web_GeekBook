@@ -1,0 +1,16 @@
+table, th, td {
+    border: 2px solid firebrick;
+    background-color: lightseagreen;
+    color: white;
+}
+
+th, td {
+    height: 24px;
+    width: 150px;
+    text-align: center;
+}
+
+th {
+    color: green;
+    background-color: white;
+  }  

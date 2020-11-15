@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    max-width: 600px;
+}
+
+p {
+    display: inline-block;
+    width: 86%;
+    height: 90px;
+    position: absolute;
+    top: calc(50% - 45px);
+    left: 7%;
+}

@@ -1,0 +1,26 @@
+div {
+    position: relative;
+    border: 2px solid lightgray;
+    height: 20px;
+    width: 50%;
+    border-radius: 5px;
+    margin: auto;
+}
+
+a {
+    position: absolute;
+    left: 0;
+    text-decoration: none;
+    color: teal;
+}
+
+span {
+    position: absolute;
+    right: 0;
+    background-color: tomato;
+    color: white;
+    width: 40px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: medium;
+}

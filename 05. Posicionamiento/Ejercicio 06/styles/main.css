@@ -1,0 +1,12 @@
+.div6 {
+  margin-bottom: 150px;
+}
+
+.divf {
+  position: fixed;
+  bottom: 0;
+  background-color: yellow;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}

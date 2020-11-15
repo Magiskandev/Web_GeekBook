@@ -1,0 +1,11 @@
+ul {
+    width: 50%;
+    margin: auto;
+}
+
+li {
+    display: inline;
+    font-weight: bolder;
+    color: teal;
+    margin: 12px;
+}

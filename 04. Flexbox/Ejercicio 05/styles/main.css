@@ -1,22 +1,25 @@
-.container {
-    border: 2px dotted green;
-    background-color: lavender;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.news {
-    width: 50%;
+header {
+    background-color: skyblue;
 }
 
-.image {
-    width: 100%;
-    height: auto;
-    background-color: greenyellow;
-    border: 2px dashed blue;
+main {
+    flex: 1 0 auto;
+    background-color: springgreen;
 }
 
-.three {
-    order: -1;
-    width: 100%;
+footer {
+    flex-shrink: 0;
+    background-color: salmon;
 }

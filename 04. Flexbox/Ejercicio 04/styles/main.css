@@ -3,10 +3,13 @@
     background-color: lavender;
     display: flex;
     flex-wrap: wrap;
+    margin: 10px;
 }
 
 .news {
-    width: 50%;
+    width: 50%;w
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .image {
@@ -14,6 +17,8 @@
     height: auto;
     background-color: greenyellow;
     border: 2px dashed blue;
+    margin: 0 auto;
+    box-sizing: border-box;
 }
 
 .three {

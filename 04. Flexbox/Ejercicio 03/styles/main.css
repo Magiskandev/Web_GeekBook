@@ -3,6 +3,7 @@
     background-color: khaki;
     height: 100px;
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     box-sizing: border-box;

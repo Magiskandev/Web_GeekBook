@@ -1,0 +1,39 @@
+.container {
+    width: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+header {
+    background-color: orangered;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.aside-1 {
+    background-color: yellow;
+    padding: 20px;
+    width: 20%;
+}
+
+main {
+    background-color: lightskyblue;
+    padding: 20px;
+    width: 60%;
+}
+
+.aside-2 {
+    background-color: pink;
+    padding: 20px;
+    width: 20%;
+}
+
+footer {
+    background-color: greenyellow;
+}
